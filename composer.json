@@ -1,0 +1,7 @@
+{
+  "require": {
+    "": "<default>",
+    "ext-pdo": "*",
+    "ext-json": "*"
+  }
+}
